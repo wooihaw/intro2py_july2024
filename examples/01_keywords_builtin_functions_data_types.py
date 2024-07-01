@@ -7,7 +7,7 @@ import math as m
 def greet(name):
     return f'Hello, {name}. Nice to meet you'
 
-a = 2
+a = 5
 b = 17.5
 c = 'This is a string'
 
